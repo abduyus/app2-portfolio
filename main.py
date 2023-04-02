@@ -14,3 +14,7 @@ with col2:
     School. I am experienced in HTML and CSS and learning python.
     """
     st.info(content)
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
