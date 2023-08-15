@@ -11,7 +11,7 @@ with col1:
 with col2:
     st.title("Yusuf Abdur-Rasheed")
     content = """
-    Hello, I am Yusuf! A beginner programmer who is 12 years old. I am situated in Solihull, England 
+    Hello, I am Yusuf! A beginner programmer who is 13 years old. I am situated in Solihull, England 
     and go to Solihull School. I am experienced in HTML and CSS and learning python.
     """
     st.info(content)
